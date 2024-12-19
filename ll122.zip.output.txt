@@ -1,4 +1,4 @@
-﻿unzipping /htdocs/ebookmaker/cache/20240910110105/LL122.zip
+unzipping /htdocs/ebookmaker/cache/20240910110105/LL122.zip
 Archive:  /htdocs/ebookmaker/cache/20240910110105/LL122.zip
    creating: /htdocs/ebookmaker/cache/20240910110105/images/
   inflating: /htdocs/ebookmaker/cache/20240910110105/images/ad-enr0122.png  
