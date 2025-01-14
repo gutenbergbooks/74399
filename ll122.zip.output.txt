@@ -1,0 +1,52 @@
+﻿unzipping /htdocs/ebookmaker/cache/20240910110105/LL122.zip
+Archive:  /htdocs/ebookmaker/cache/20240910110105/LL122.zip
+   creating: /htdocs/ebookmaker/cache/20240910110105/images/
+  inflating: /htdocs/ebookmaker/cache/20240910110105/images/ad-enr0122.png  
+ extracting: /htdocs/ebookmaker/cache/20240910110105/images/ad-gelre.png  
+  inflating: /htdocs/ebookmaker/cache/20240910110105/images/favicon.jpg  
+  inflating: /htdocs/ebookmaker/cache/20240910110105/images/lordlister0122-front.jpg  
+ extracting: /htdocs/ebookmaker/cache/20240910110105/images/p0122-01.png  
+  inflating: /htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html  
+  inflating: /htdocs/ebookmaker/cache/20240910110105/LordLister-0122-utf8.txt  
+
+Input file: /htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html
+
+--- Validating your uploaded file
+/htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html
+--- Validation complete
+
+
+--- Starting ebookmaker processing
+EbookMaker 0.12.43
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:coverpage candidate  is too small (192 x 192)
+WARNING	Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:CSSUTILS:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:coverpage candidate  is too small (192 x 192)
+WARNING	Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:CSSUTILS:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:coverpage candidate  is too small (192 x 192)
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:coverpage candidate  is too small (192 x 192)
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: http://purl.org/dc/elements/1.1/
+WARNING:root:External link in file:///htdocs/ebookmaker/cache/20240910110105/LordLister-0122-h5.html: https://www.pgdp.net/
+WARNING:root:coverpage candidate  is too small (192 x 192)
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+WARNING:cssutils:Property: Unknown Property name. [894:1: mix-blend-mode]
+--- ebookmaker complete
